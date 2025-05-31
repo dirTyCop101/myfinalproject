@@ -1,0 +1,298 @@
+{
+    "categories": [
+      { "id": 1, "name": "Engine & Performance" },
+      { "id": 2, "name": "Suspension & Steering" },
+      { "id": 3, "name": "Brakes" },
+      { "id": 4, "name": "Transmission & Drivetrain" },
+      { "id": 5, "name": "Electrical & Lighting" },
+      { "id": 6, "name": "Interior Parts" },
+      { "id": 7, "name": "Cooling System" },
+      { "id": 8, "name": "Heating & Air Conditioning" },
+      { "id": 9, "name": "Tires & Wheels" },
+      { "id": 10, "name": "Oils, Fluids & Lubricants" },
+      { "id": 11, "name": "Tools & Accessories" }
+    ],
+    "items": [
+      {
+        "name": "Turbocharger Kit",
+        "description": "High-performance turbocharger for boosting engine power.",
+        "price": 1200.00,
+        "image_url": "https://example.com/turbo.jpg",
+        "category_id": 1
+      },
+      {
+        "name": "Cold Air Intake",
+        "description": "Increase your engine's airflow with a performance cold air intake.",
+        "price": 350.00,
+        "image_url": "https://example.com/airintake.jpg",
+        "category_id": 1
+      },
+      {
+        "name": "Performance Exhaust System",
+        "description": "Enhance engine performance with a high-flow exhaust system.",
+        "price": 700.00,
+        "image_url": "https://example.com/exhaust.jpg",
+        "category_id": 1
+      },
+      {
+        "name": "Fuel Injector Kit",
+        "description": "Upgrade your fuel injectors for better fuel delivery and power.",
+        "price": 250.00,
+        "image_url": "https://example.com/fuelinjector.jpg",
+        "category_id": 1
+      },
+      {
+        "name": "Intercooler Kit",
+        "description": "Improve engine cooling and performance with an intercooler kit.",
+        "price": 500.00,
+        "image_url": "https://example.com/intercooler.jpg",
+        "category_id": 1
+      },
+      {
+        "name": "Suspension Coilovers",
+        "description": "Adjustable coilover suspension for improved handling and ride quality.",
+        "price": 450.00,
+        "image_url": "https://example.com/coilover.jpg",
+        "category_id": 2
+      },
+      {
+        "name": "Shock Absorbers",
+        "description": "High-quality shock absorbers for better stability and comfort.",
+        "price": 180.00,
+        "image_url": "https://example.com/shockabsorbers.jpg",
+        "category_id": 2
+      },
+      {
+        "name": "Power Steering Pump",
+        "description": "High-quality power steering pump for smoother driving.",
+        "price": 150.00,
+        "image_url": "https://example.com/powersteering.jpg",
+        "category_id": 2
+      },
+      {
+        "name": "Sway Bar Kit",
+        "description": "Stabilize your suspension with a heavy-duty sway bar kit.",
+        "price": 300.00,
+        "image_url": "https://example.com/swaybar.jpg",
+        "category_id": 2
+      },
+      {
+        "name": "Ball Joint Kit",
+        "description": "Durable ball joints to improve steering performance and safety.",
+        "price": 120.00,
+        "image_url": "https://example.com/balljoint.jpg",
+        "category_id": 2
+      },
+      {
+        "name": "Ceramic Brake Pads",
+        "description": "Durable, long-lasting ceramic brake pads for superior braking performance.",
+        "price": 120.00,
+        "image_url": "https://example.com/brakepads.jpg",
+        "category_id": 3
+      },
+      {
+        "name": "Slotted Rotors",
+        "description": "High-performance slotted rotors for enhanced braking efficiency.",
+        "price": 250.00,
+        "image_url": "https://example.com/rotors.jpg",
+        "category_id": 3
+      },
+      {
+        "name": "Brake Calipers",
+        "description": "High-performance brake calipers for faster and more responsive braking.",
+        "price": 400.00,
+        "image_url": "https://example.com/calipers.jpg",
+        "category_id": 3
+      },
+      {
+        "name": "Brake Master Cylinder",
+        "description": "Premium master cylinder for better brake fluid distribution.",
+        "price": 180.00,
+        "image_url": "https://example.com/mastercylinder.jpg",
+        "category_id": 3
+      },
+      {
+        "name": "ABS Sensors",
+        "description": "Replace your worn ABS sensors for improved safety and performance.",
+        "price": 80.00,
+        "image_url": "https://example.com/abs.jpg",
+        "category_id": 3
+      },
+      {
+        "name": "Clutch Kit",
+        "description": "Complete clutch kit for manual transmission vehicles.",
+        "price": 300.00,
+        "image_url": "https://example.com/clutch.jpg",
+        "category_id": 4
+      },
+      {
+        "name": "Manual Transmission Mounts",
+        "description": "Durable transmission mounts for added stability and performance.",
+        "price": 200.00,
+        "image_url": "https://example.com/mtxmounts.jpg",
+        "category_id": 4
+      },
+      {
+        "name": "Flywheel",
+        "description": "High-performance flywheel for smoother clutch engagement.",
+        "price": 350.00,
+        "image_url": "https://example.com/flywheel.jpg",
+        "category_id": 4
+      },
+      {
+        "name": "Short Shifter",
+        "description": "Short shifter for quicker gear changes and improved driving experience.",
+        "price": 120.00,
+        "image_url": "https://example.com/shortshifter.jpg",
+        "category_id": 4
+      },
+      {
+        "name": "Clutch Slave Cylinder",
+        "description": "Durable slave cylinder for reliable clutch operation.",
+        "price": 100.00,
+        "image_url": "https://example.com/slavecylinder.jpg",
+        "category_id": 4
+      },
+      {
+        "name": "LED Headlights",
+        "description": "Bright LED headlights for better visibility and style.",
+        "price": 100.00,
+        "image_url": "https://example.com/ledheadlights.jpg",
+        "category_id": 5
+      },
+      {
+        "name": "Tail Light Assemblies",
+        "description": "Replace or upgrade your car's tail light assemblies.",
+        "price": 120.00,
+        "image_url": "https://example.com/tailights.jpg",
+        "category_id": 5
+      },
+      {
+        "name": "Fog Lights",
+        "description": "Powerful fog lights for better visibility in adverse weather.",
+        "price": 80.00,
+        "image_url": "https://example.com/foglights.jpg",
+        "category_id": 5
+      },
+      {
+        "name": "Turn Signal Lights",
+        "description": "Clear, bright turn signal lights for enhanced visibility.",
+        "price": 45.00,
+        "image_url": "https://example.com/turnsignal.jpg",
+        "category_id": 5
+      },
+      {
+        "name": "HID Kit",
+        "description": "Upgrade to high-intensity discharge (HID) lights for superior visibility.",
+        "price": 150.00,
+        "image_url": "https://example.com/hidkit.jpg",
+        "category_id": 5
+      },
+      {
+        "name": "Floor Mats",
+        "description": "Custom-fit floor mats for your vehicle's interior.",
+        "price": 50.00,
+        "image_url": "https://example.com/floormats.jpg",
+        "category_id": 6
+      },
+      {
+        "name": "Steering Wheel Cover",
+        "description": "Stylish and comfortable steering wheel cover for better grip.",
+        "price": 20.00,
+        "image_url": "https://example.com/steeringwheelcover.jpg",
+        "category_id": 6
+      },
+      {
+        "name": "Seat Covers",
+        "description": "Premium seat covers for extra comfort and protection.",
+        "price": 100.00,
+        "image_url": "https://example.com/seatcovers.jpg",
+        "category_id": 6
+      },
+      {
+        "name": "Dashboard Mat",
+        "description": "Protect your dashboard with a non-slip mat.",
+        "price": 30.00,
+        "image_url": "https://example.com/dashboardmat.jpg",
+        "category_id": 6
+      },
+      {
+        "name": "Armrest Pad",
+        "description": "Comfortable armrest pad for a better driving experience.",
+        "price": 25.00,
+        "image_url": "https://example.com/armrestpad.jpg",
+        "category_id": 6
+      },
+      {
+        "name": "Radiator",
+        "description": "Durable radiator for cooling your engine.",
+        "price": 200.00,
+        "image_url": "https://example.com/radiator.jpg",
+        "category_id": 7
+      },
+      {
+        "name": "Cooling Fan",
+        "description": "Electric cooling fan for optimal engine cooling.",
+        "price": 150.00,
+        "image_url": "https://example.com/coolingfan.jpg",
+        "category_id": 7
+      },
+      {
+        "name": "Thermostat",
+        "description": "Maintain the optimal engine temperature with a high-quality thermostat.",
+        "price": 50.00,
+        "image_url": "https://example.com/thermostat.jpg",
+        "category_id": 7
+      },
+      {
+        "name": "Water Pump",
+        "description": "Ensure proper coolant circulation with a durable water pump.",
+        "price": 120.00,
+        "image_url": "https://example.com/waterpump.jpg",
+        "category_id": 7
+      },
+      {
+        "name": "Radiator Cap",
+        "description": "Replace your old radiator cap for better pressure regulation.",
+        "price": 10.00,
+        "image_url": "https://example.com/radiatorcap.jpg",
+        "category_id": 7
+      },
+      {
+        "name": "AC Compressor",
+        "description": "High-performance air conditioning compressor for your vehicle.",
+        "price": 300.00,
+        "image_url": "https://example.com/accompressor.jpg",
+        "category_id": 8
+      },
+      {
+        "name": "AC Condenser",
+        "description": "Air conditioning condenser for better cooling efficiency.",
+        "price": 180.00,
+        "image_url": "https://example.com/accondenser.jpg",
+        "category_id": 8
+      },
+      {
+        "name": "Cabin Air Filter",
+        "description": "Replace your cabin air filter for better air quality inside your car.",
+        "price": 25.00,
+        "image_url": "https://example.com/cabinfilter.jpg",
+        "category_id": 8
+      },
+      {
+        "name": "AC Evaporator",
+        "description": "High-quality evaporator to maintain cool cabin temperatures.",
+        "price": 200.00,
+        "image_url": "https://example.com/acevaporator.jpg",
+        "category_id": 8
+      },
+      {
+        "name": "Blower Motor",
+        "description": "Replace your blower motor for better airflow and comfort.",
+        "price": 90.00,
+        "image_url": "https://example.com/blowermotor.jpg",
+        "category_id": 8
+      }
+    ]
+  }
+  

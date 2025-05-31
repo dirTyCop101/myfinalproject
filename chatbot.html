@@ -1,0 +1,18 @@
+<!-- Chat Toggle Button -->
+<div id="chat-toggle" onclick="toggleChatbot()">
+    <span class="wrench">🔧</span>
+  </div>
+  
+  <!-- Chatbot Container -->
+  <div class="chatbot-container" id="chatbotContainer">
+    <div class="chat-header">
+      Wrenchy 💬
+      <span class="chat-close" onclick="toggleChatbot()">✖</span>
+    </div>
+    <div class="chat-messages" id="chatMessages"></div>
+    <div class="chat-input">
+      <input type="text" id="userInput" placeholder="Ask me car stuff..." class="form-control" onkeydown="if(event.key === 'Enter') sendMessage()" />
+      <button class="btn btn-primary" onclick="sendMessage()">Send</button>
+    </div>
+  </div>
+  
